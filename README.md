@@ -1,9 +1,10 @@
-# This is An World advisor for cities
-This Project is maded with vite!
+# This is A World advisor for cities APP!
 
-# for inistall just clone the project and npm i
+## This Project is maded with vite!
 
-## you need to use commands `npm run dev` and `npm run server` to run project properly
+### for inistall just clone the project and `npm i`
+
+### you need to use commands `npm run dev` and `npm run server` to run project properly
 
 ### Most techs and tools used in this project:
 
